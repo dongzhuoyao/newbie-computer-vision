@@ -1,9 +1,9 @@
 # newbie-computer-vision
 
-####co-localization
+#### co-localization
 
 given a set of images containing different instances of the same (but unknown) class, localise them in each image
 
-####co-segmentation
+#### co-segmentation
 
 given a set of images containing different instances of the same (but unknown) class, segment them in each image
