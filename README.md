@@ -7,3 +7,7 @@ given a set of images containing different instances of the same (but unknown) c
 #### co-segmentation
 
 given a set of images containing different instances of the same (but unknown) class, segment them in each image
+
+#### image alignment
+
+[pdf](http://www.cs.toronto.edu/~urtasun/courses/CV/lecture06.pdf)
