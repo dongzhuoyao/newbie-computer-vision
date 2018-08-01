@@ -11,3 +11,7 @@ given a set of images containing different instances of the same (but unknown) c
 #### image alignment
 
 [pdf](http://www.cs.toronto.edu/~urtasun/courses/CV/lecture06.pdf)
+
+#### action segmentation
+
+Temporal Deformable Residual Networks for Action Segmentation in Videos Peng,cvpr2018
